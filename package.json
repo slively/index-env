@@ -1,0 +1,24 @@
+{
+  "name": "index-env",
+  "version": "0.0.1",
+  "author": {
+    "name": "Scott Lively"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slively/index-env.git"
+  },
+  "main": "./cli.js",
+  "bin": {
+    "index-env": "./cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/slively/index-env/issues"
+  },
+  "homepage": "https://github.com/slively/index-env",
+  "dependencies": {
+    "cli": "^0.6.5",
+    "ejs": "^2.0.8"
+  },
+  "readmeFilename": "README.md"
+}
